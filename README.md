@@ -6,4 +6,4 @@ A discussion on the zulip github repo about different notification sounds lead t
 
 ## Pops
 
-  * (https://freesound.org/people/Ch0cchi/sounds/15348/)[Bubble Pop]
+  * [Bubble Pop](https://freesound.org/people/Ch0cchi/sounds/15348/)

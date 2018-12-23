@@ -4,8 +4,9 @@ Sounds for zulip notifications
 ## Intro
 A discussion on the zulip github repo about different notification sounds lead to me agreeing to curate some open source/free sounds which can be used in the forthcoming functionality which will allow a zulip user to select their own sounds.
 
-I've indicated the license in parantheses.
+I've indicated the license in parentheses.
 
+# Short sounds
 ## Pops
 
   * [Bubble Pop](https://freesound.org/people/Ch0cchi/sounds/15348/)  (CC BY 3.0)
